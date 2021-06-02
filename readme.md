@@ -1,17 +1,17 @@
-#Solution for coding challenge#
+# Solution for coding challenge #
 
-####Prerequisite####
+#### Prerequisite ####
 
 dotnet core 3.1 to be installed
 
-###How to run###
+### How to run ###
 
 open the command prompt and navigate to the solution path.
 Run below command
 
  `dotnet run`
 
-###How it works###
+### How it works ###
 
 Program run five time to demonstrate multiple run and displays time for each run
 category and maganizes are api results are cached to with expiration of 10 sec to improve performance
